@@ -1,5 +1,12 @@
 package com.example.rhkwp;
-
+//
+//
+//
+//		Å×½ºÆ®
+//
+//
+//
+//
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.app.ActionBar;
 import android.support.v4.app.Fragment;
